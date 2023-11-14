@@ -21,6 +21,6 @@ Welcome to my repository showcasing a collection of projects completed during my
 |  14 | [Inception](https://github.com/Abdeljalil-Bouchfar/Inception_101) | This project aims to broaden your knowledge of system administration by using Docker | `Docker` `containers` `docker-compose` `system administration` `virtual machine` | Solo | :white_check_mark: |  100 |
 |  15 | [ft_transcendence](https://github.com/m0hs1ne/ft_transcendence) | This project aims to provide users with a platform to play Pong with others in real-time, featuring a user-friendly interface, chat functionality, and multiplayer online games. | `Vue.js` `Tailwind` `NestJS` `Figma` `PostgreSQL` `Docker` `docker-compose` | Group | :white_check_mark: |  100 |
 
-Feel free to explore each project's README for more details, including project thumbnails, overviews, and topics covered. If you have any questions or feedback, don't hesitate to reach out.
+Feel free to explore each project's README for more details. If you have any questions or feedback, don't hesitate to reach out.
 
 Happy coding!
